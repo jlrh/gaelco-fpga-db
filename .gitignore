@@ -1,0 +1,4 @@
+# Nada de temporales/artefactos de build en el repo-DB
+*.log
+*.tmp
+scratchpad/
