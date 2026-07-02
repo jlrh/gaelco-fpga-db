@@ -2,3 +2,8 @@
 *.log
 *.tmp
 scratchpad/
+
+# ficheros de mantenimiento (no distribuir a la SD)
+/MAINTAINER.md
+/populate.sh
+/docs/
