@@ -50,7 +50,7 @@ Todos validados en hardware real (MiSTer). Nomenclatura estándar
 | World Rally          | 1993 | `wrally_20260701`   | World Rally Championship (Gaelco, 1993).mra |
 | Alligator Hunt       | 1994 | `aligator_20260701` | Alligator Hunt (Gaelco, 1994).mra |
 | TH Strikes Back      | 1994 | `thoop2_20260701`   | TH Strikes Back (Gaelco, 1994).mra |
-| Biomechanical Toy    | 1995 | `biomtoy_20260701`  | Biomechanical Toy (Gaelco, 1995).mra |
+| Biomechanical Toy    | 1995 | `biomtoy_20260714`  | Biomechanical Toy (Gaelco, 1995).mra |
 | World Rally 2        | 1995 | `wrally2_20260701`  | World Rally 2 (Gaelco, 1995).mra |
 
 *World Rally 2* soporta modo **twin** (2 monitores, 8:3) — se activa por OSD.
