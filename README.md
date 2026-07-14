@@ -45,7 +45,7 @@ Todos validados en hardware real (MiSTer). Nomenclatura estándar
 | Juego | Año | Core (`.rbf`) | MRA |
 |-------|-----|---------------|-----|
 | Big Karnak            | 1991 | `bigkarnk_20260701` | Big Karnak (Gaelco, 1991).mra |
-| Thunder Hoop         | 1992 | `thoop_20260701`    | Thunder Hoop (Gaelco, 1992).mra |
+| Thunder Hoop         | 1992 | `thoop_20260714`    | Thunder Hoop (Gaelco, 1992).mra |
 | Squash               | 1992 | `squash_20260701`   | Squash (Gaelco, 1992).mra |
 | World Rally          | 1993 | `wrally_20260701`   | World Rally Championship (Gaelco, 1993).mra |
 | Alligator Hunt       | 1994 | `aligator_20260701` | Alligator Hunt (Gaelco, 1994).mra |
