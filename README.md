@@ -48,7 +48,7 @@ Todos validados en hardware real (MiSTer). Nomenclatura estándar
 | Thunder Hoop         | 1992 | `thoop_20260714`    | Thunder Hoop (Gaelco, 1992).mra |
 | Squash               | 1992 | `squash_20260714`   | Squash (Gaelco, 1992).mra |
 | World Rally          | 1993 | `wrally_20260701`   | World Rally Championship (Gaelco, 1993).mra |
-| Alligator Hunt       | 1994 | `aligator_20260701` | Alligator Hunt (Gaelco, 1994).mra |
+| Alligator Hunt       | 1994 | `aligator_20260714` | Alligator Hunt (Gaelco, 1994).mra |
 | TH Strikes Back      | 1994 | `thoop2_20260714`   | TH Strikes Back (Gaelco, 1994).mra |
 | Biomechanical Toy    | 1995 | `biomtoy_20260714`  | Biomechanical Toy (Gaelco, 1995).mra |
 | World Rally 2        | 1995 | `wrally2_20260701`  | World Rally 2 (Gaelco, 1995).mra |
